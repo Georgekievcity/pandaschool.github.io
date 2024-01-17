@@ -1,1 +1,1 @@
-# pandaschool.github
+# pandaschool.github.io
